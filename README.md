@@ -27,11 +27,7 @@
 
 ---
 
-### 📊 Thống kê GitHub
 
-![Singed's GitHub stats](https://github-readme-stats.vercel.app/api?username=singed2905&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=singed2905&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singed2905&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
