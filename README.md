@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là Singed2905
+# 👋 Xin chào, mình là Đặng Vũ Hưng
 
 > 🗂️ Đây là GitHub cá nhân của mình — nơi mình lưu trữ và phát triển các project cá nhân, công cụ học tập và những ý tưởng thú vị về lập trình.
 
